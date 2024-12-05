@@ -9,3 +9,5 @@
 Несбалансированный датасет 1: https://colab.research.google.com/drive/1PsOawSoFB7A42uSFJVjL3BcyAkBe0PwC
 
 Автоэнкодеры: https://colab.research.google.com/drive/11s4Uj3wNJP-__sqVwLy0Y5SwIo5gNXzv#scrollTo=ES4Th50zt6fw
+
+Обучение с подкреплением: https://colab.research.google.com/drive/1gId27jxr-4xVZEZ12zliThVild6xlhP5?usp=sharing
